@@ -41,7 +41,7 @@ catalogo-de-jogos/
 
 ##  Contexto acadêmico
 
-O desenvolvimento deste projeto teve como objetivo proporcionar aos integrantes uma experiência prática com as principais etapas envolvidas na construção de um sistema de software.
+Este projeto foi desenvolvido no contexto da disciplina de Engenharia de Software, com o propósito de aplicar, na prática, conceitos relacionados ao desenvolvimento e gerenciamento de sistemas de software.
 
 ##  Autor
 
