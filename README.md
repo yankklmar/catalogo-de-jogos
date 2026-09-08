@@ -41,7 +41,7 @@ catalogo-de-jogos/
 
 ##  Contexto acadêmico
 
-Este projeto foi desenvolvido como parte de um trabalho da faculdade, na disciplina de Engenharia de Software, com foco em boas práticas de organização de código e documentação de projetos.
+Este projeto foi desenvolvido no contexto da disciplina de Engenharia de Software, com o propósito de aplicar, na prática, conceitos relacionados ao desenvolvimento e gerenciamento de sistemas de software.
 
 ##  Autor
 
