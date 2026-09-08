@@ -43,7 +43,13 @@ catalogo-de-jogos/
 
 Este projeto foi desenvolvido no contexto da disciplina de Engenharia de Software, com o propósito de aplicar, na prática, conceitos relacionados ao desenvolvimento e gerenciamento de sistemas de software.
 
-##  Autor
+##  Autores
+
+- Yan Marcelo Dias Rodrigues
+- Miguel Gomide Rodrigues
+- Laís Alves Ferraz
+- Gabriel Ramos de Assis
+- Elisa Moura Cintra
 
 - [yankklmar](https://github.com/yankklmar)
 - [Miguel-Gomide00](https://github.com/Miguel-Gomide00)
